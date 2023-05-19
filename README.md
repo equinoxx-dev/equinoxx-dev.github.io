@@ -1,2 +1,2 @@
 # equinoxx-dev.github.io
-hi
+хелло
